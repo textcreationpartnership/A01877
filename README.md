@@ -32,11 +32,13 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Body#####
+
+1. The mad-merry prankes of Robbin Good-fellow.
 FRom Oberon in Fairy Landthe King of Ghosts and shadowes there,Mad Robbin I at his command,am sent t
-1. The second part, To the same tune.
+    _ The second part, To the same tune.
 
 #####Back#####
-The mad-merry prankes of Robbin Good-fellow To the tune of Dulcina.1625Approx. 5 KB of XML-encoded t
+London, Printed for H. G.
 **Types of content**
 
   * There are 119 **verse** lines!
